@@ -1,5 +1,6 @@
 {
   "name": "educator-js-codespace-template",
+  "homepage": ".",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
